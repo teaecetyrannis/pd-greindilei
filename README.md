@@ -1,5 +1,5 @@
 # pd-greindilei
-Delay granular inspirado en el dispositivo Grain Delay de Ableton.
+Delay granular inspirado en el dispositivo Grain Delay de Ableton, desarrollado en [Pure Data](https://github.com/pure-data/pure-data).
 
 
 ## instalación
@@ -10,7 +10,7 @@ Depende del objeto [`[adsr~]`](https://github.com/teaecetyrannis/pd-adsr), por l
 
 ## documentación
 En el subparche `[pd help]` dentro de greindilei~.pd se encuentra toda la información sobre su funcionamiento.
-	
+
 
 ## créditos
 - [Pure Data](https://github.com/pure-data/pure-data) por Miller Puckette y muchxs más.
