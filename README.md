@@ -4,8 +4,6 @@ Delay granular inspirado en el dispositivo Grain Delay de Ableton, desarrollado 
 
 ## instalación
 Descargar el zip y extraer la carpeta (o clonar el repositorio) dentro de una ruta de búsqueda de pure data. Ya se puede iniciar desde cualquier parche creando el objeto `[pd-greindilei/greindilei~]`.  
-  
-Depende del objeto [`[adsr~]`](https://github.com/teaecetyrannis/pd-adsr), por lo que también deberá instalarse.
 
 
 ## documentación
